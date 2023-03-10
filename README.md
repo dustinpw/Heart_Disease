@@ -29,10 +29,10 @@ Cardiovascular diseases are the leading cause of death globally. By early detect
 
 > The heatmap above shows there is a negative correlation between MaxHr and HeartDisease.
 
-#### Scatterplot of MRP and Item Outlet Sales
-![sample image](download_2.png)
+#### Scatterplot of HeartDisease and MaxHR
+![sample image](heartd_3.png)
 
-> To expand further on the correlation mentioned above, the scatter plot below confirms that as Item_MRP increases, so does Item_Outlet_Sales. This is an example of a positive correlation.
+> In the 'Negative correlation in HeartDisease' visual, we see that as an individual's age increases, their MaxHR decreases and makes them more likely to have HeartDisease.
 ## Model
 
 - Linear Regression Model (Testing Set):
