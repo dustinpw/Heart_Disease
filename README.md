@@ -28,6 +28,7 @@ Cardiovascular diseases are the leading cause of death globally. By early detect
 > The heatmap above shows there is a positive correlation between HeartDisease and Oldpeak.
 
 > The heatmap above shows there is a negative correlation between MaxHr and HeartDisease.
+
 #### Scatterplot of MRP and Item Outlet Sales
 ![sample image](download_2.png)
 
