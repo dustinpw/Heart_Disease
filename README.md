@@ -33,20 +33,17 @@ Cardiovascular diseases are the leading cause of death globally. By early detect
 ![sample image](heartd_3.png)
 
 > In the 'Negative correlation in HeartDisease' visual, we see that as an individual's age increases, their MaxHR decreases and makes them more likely to have HeartDisease.
+
 ## Model
+![sample image](heartd_4.png)
 
-- Linear Regression Model (Testing Set):
-  - R^2: -6.835227208182029e+23
-  - RMSE: 1373252949182061.8
-
-- Decision Tree Regressor Model (Testing Set):
-  - R^2: 0.5960564372160062
-  - RMSE: 1373252949182061.8
+- LightGBM was my best model. An accuracy score of .89 and recall and percision is .90.
+ 
 
 
 ## Recommendations:
 
-I recommend using the Regression Tree Model to predict sales. The R2 score for the training and testing data is about .6. The model can explain 60% of the variation in the target for the training and testing datasets.
+I recommend using the LightGBM model to predict likelihood of detecting an individual with heart disease.
 
 
 
