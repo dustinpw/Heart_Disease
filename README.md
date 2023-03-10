@@ -9,7 +9,7 @@ Cardiovascular diseases are the leading cause of death globally. By early detect
 
 
 ### Data:
-![sample image](download_3.png)
+![sample image](heartd1.png)
 
 
 ## Methods
